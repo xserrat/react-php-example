@@ -1,0 +1,17 @@
+{
+    "name": "xserrat/reactphp",
+    "require-dev": {
+        "react/event-loop": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "xserrat",
+            "email": "xavier.serrat22@gmail.com"
+        }
+    ],
+    "require": {
+        "react/stream": "^1.1.0",
+        "react/promise": "^2.7.1",
+        "react/http": "^0.8.4"
+    }
+}
